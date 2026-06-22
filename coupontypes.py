@@ -1,0 +1,1 @@
+coupontypeId = 8393
